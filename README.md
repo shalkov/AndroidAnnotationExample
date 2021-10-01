@@ -8,3 +8,6 @@
 
 * Added @OnlyPrivate annotation, methods marked with it must be with the private modifier,
 otherwise the compiler will output an error
+
+![alt text](http://i.imgur.com/uPNpdOZ.png?raw=true)
+![alt text](http://i.imgur.com/L7fv84S.png?raw=true)
